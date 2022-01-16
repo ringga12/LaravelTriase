@@ -1,0 +1,138 @@
+body{
+    background: #343335;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.collapse{
+    margin-left: 149px;
+}
+
+.navbar{
+    text-decoration: none;
+    background: #5A494F;
+    margin-left: 149;
+}
+
+.nav-item{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 26px;
+    line-height: 30px;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}
+
+.nav-item:hover{
+    color: #5A494F;
+    background: #FFFFFF;
+}
+
+.row{
+    margin-left: 203px;
+    margin-top: 389px;
+}
+
+.img-desert{
+    width: 282px;
+    height: 282px;
+}
+
+.img-logo{
+    margin-top: 46px;
+    width: 295px;
+    height: 95px;
+}
+
+.definition{
+    position: absolute;
+    width: 630px;
+    height: 271px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 114.1%;
+
+    /* or 32px */
+    letter-spacing: 0.05em;
+
+    color: #CAB89C;
+}
+
+.card{
+    position: absolute;
+    margin-left: 980px; 
+    width: 416px;
+    height: 452px;
+
+    border: 3px solid #CAB89C;
+    background: #343335;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.card-text{
+    position: absolute;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 114.1%;
+
+    /* or 21px */
+    text-align: center;
+    margin: 128px 60px 282px;
+    letter-spacing: 0.05em;
+
+    color: #CAB89C;
+}
+
+.card-text{
+    width: 259px;
+    height: 42px;
+}
+
+.in-card{
+    position: absolute;
+    margin: 203.5px 40px 248px;
+    width: 296px;
+    height: 0px;
+
+    border: 1px solid #CAB89C;
+}
+
+.link-box{
+    position: absolute;
+    margin: 233px 65px 129px;
+    width: 243px;
+    height: 90px;
+
+    background: #CAB89C;
+    border-radius: 14px;
+}
+
+.learn-now{
+    position: absolute;
+    margin: 33px 29px 28px;
+    width: 185px;
+    height: 29px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 114.1%;
+
+    /* or 27px */
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #343335;
+}

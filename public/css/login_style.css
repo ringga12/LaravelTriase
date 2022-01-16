@@ -1,0 +1,142 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+header{
+  background: #343335;
+  height: 55px;
+}
+
+.img-navbar {
+  margin-left: 104px;
+  position: absolute;
+  width: 159px;
+  height: 51px;
+}
+
+.card{
+  position: absolute;
+  margin: 160px 1036px 124px 341px;
+  width: 543px;
+  height: 796px;
+
+  border: 3px solid #CAB89C;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+
+.card img{
+  position: absolute;
+  margin: 84px 175px 514px 169px;
+  width: 199px;
+  height: 199px;
+}
+
+.card-title{
+  position: absolute;
+  margin: 319px 135px 447px;
+  width: 235px;
+  height: 30px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  letter-spacing: 0.1em;
+
+  color: #000000;
+}
+
+hr{
+  position: absolute;
+  margin: 367px 98px 429px;
+  width: 304.01px;
+  height: 0px;
+
+  border: 1px solid #000000;
+}
+
+form{
+  margin: 429px 82px 61px;
+}
+
+.email-label{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  letter-spacing: 0.1em;
+}
+
+.pw-label{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  letter-spacing: 0.1em;
+}
+
+.email-input{
+  border: 3px solid #CAB89C;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.pw-input{
+  border: 3px solid #CAB89C;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+button{
+  background: #68B04F;
+  mix-blend-mode: normal;
+  border-radius: 7px;
+}
+
+.bridge{
+  position: absolute;
+  margin: 560px 610px 138px;
+  width: 765.02px;
+  height: 0px;
+
+  border: 1px solid #000000;
+  transform: rotate(-90deg);
+}
+
+.float-right{
+  position: absolute;
+  margin-top: 177px;
+  margin-right: 506px;
+  margin-left: 1041px;
+}
+
+h2{
+  position: block;
+  width: 400px;
+  height: 56px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+  letter-spacing: 0.1em;
+}
+
+.float-right p{
+  position: block;
+  width: 538px;
+  height: 30px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  letter-spacing: 0.1em;
+}
